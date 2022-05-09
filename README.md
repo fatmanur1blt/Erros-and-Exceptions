@@ -1,2 +1,2 @@
 # Erros-and-Exceptions
-Hata çeşitleri ve try except yapısı
+Types of errors and try-except structure
